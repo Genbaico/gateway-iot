@@ -54,9 +54,11 @@ mosquitto_sub -h localhost -t 'agro/gw01/#' -v
 
 ## Equipe
 
-- Henrique Radi — 202410144
-- Rafael Rodrigues — 202410262
-- Pedro Rovere — 202410039
+| Nome | GitHub |
+|---|---|
+| Henrique Radi    | [@Genbaico](https://github.com/Genbaico) |
+| Rafael Rodrigues | [@RafaelRodrigues1003](https://github.com/RafaelRodrigues1003) |
+| Pedro Rovere     | [@RoverTape](https://github.com/RoverTape) |
 
 ## Disciplina
 
