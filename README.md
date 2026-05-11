@@ -62,4 +62,4 @@ mosquitto_sub -h localhost -t 'agro/gw01/#' -v
 
 ## Disciplina
 
-Sistemas Operacionais (SO) Embarcados — FACAMP — Prof. Nivaldo T. Marcusso — 2026
+Sistemas Operacionais (SO) — FACAMP — Prof. Nivaldo T. Marcusso — 2026
